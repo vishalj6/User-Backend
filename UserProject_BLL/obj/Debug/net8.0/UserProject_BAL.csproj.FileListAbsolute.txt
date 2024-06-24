@@ -1,0 +1,15 @@
+E:\C sharp\UserProject_BLL\bin\Debug\net8.0\UserProject_BAL.deps.json
+E:\C sharp\UserProject_BLL\bin\Debug\net8.0\UserProject_BAL.dll
+E:\C sharp\UserProject_BLL\bin\Debug\net8.0\UserProject_BAL.pdb
+E:\C sharp\UserProject_BLL\bin\Debug\net8.0\UserProject_DAL.dll
+E:\C sharp\UserProject_BLL\bin\Debug\net8.0\UserProject_DAL.pdb
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProject_BAL.csproj.AssemblyReference.cache
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProject_BAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProject_BAL.AssemblyInfoInputs.cache
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProject_BAL.AssemblyInfo.cs
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProject_BAL.csproj.CoreCompileInputs.cache
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProj.DBEE0667.Up2Date
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProject_BAL.dll
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\refint\UserProject_BAL.dll
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\UserProject_BAL.pdb
+E:\C sharp\UserProject_BLL\obj\Debug\net8.0\ref\UserProject_BAL.dll
