@@ -572,11 +572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C sharp\\UserProject_DAL\\UserProject_DAL.csproj",
+      "projectUniqueName": "E:\\C sharp\\User Backend\\UserProject_DAL\\UserProject_DAL.csproj",
       "projectName": "UserProject_DAL",
-      "projectPath": "E:\\C sharp\\UserProject_DAL\\UserProject_DAL.csproj",
+      "projectPath": "E:\\C sharp\\User Backend\\UserProject_DAL\\UserProject_DAL.csproj",
       "packagesPath": "C:\\Users\\vishal.jadeja\\.nuget\\packages\\",
-      "outputPath": "E:\\C sharp\\UserProject_DAL\\obj\\",
+      "outputPath": "E:\\C sharp\\User Backend\\UserProject_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

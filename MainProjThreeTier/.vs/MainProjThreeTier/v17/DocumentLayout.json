@@ -1,44 +1,47 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C sharp\\MainProjThreeTier\\",
+  "WorkspaceRootPath": "E:\\C sharp\\User Backend\\MainProjThreeTier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC60BE7D-2DBC-46F4-BC7E-DC084FDBA13B}|..\\UserProject_DAL\\UserProject_DAL.csproj|e:\\c sharp\\userproject_dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BA6064-292D-4C02-BF79-D8A21E637D7D}|..\\UserProject_BLL\\UserProject_BAL.csproj|e:\\c sharp\\user backend\\userproject_bll\\sevices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{182C090A-9D85-4929-B530-50A2E6B8564A}|MainProjThreeTier.csproj|e:\\c sharp\\mainprojthreetier\\controllers\\mainusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC60BE7D-2DBC-46F4-BC7E-DC084FDBA13B}|..\\UserProject_DAL\\UserProject_DAL.csproj|e:\\c sharp\\user backend\\userproject_dal\\repositories\\filedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C090A-9D85-4929-B530-50A2E6B8564A}|MainProjThreeTier.csproj|e:\\c sharp\\user backend\\mainprojthreetier\\controllers\\mainusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182C090A-9D85-4929-B530-50A2E6B8564A}|MainProjThreeTier.csproj|solutionrelative:controllers\\mainusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC60BE7D-2DBC-46F4-BC7E-DC084FDBA13B}|..\\UserProject_DAL\\UserProject_DAL.csproj|e:\\c sharp\\userproject_dal\\repositories\\filedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC60BE7D-2DBC-46F4-BC7E-DC084FDBA13B}|..\\UserProject_DAL\\UserProject_DAL.csproj|e:\\c sharp\\userproject_dal\\repositories\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC60BE7D-2DBC-46F4-BC7E-DC084FDBA13B}|..\\UserProject_DAL\\UserProject_DAL.csproj|e:\\c sharp\\userproject_dal\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC60BE7D-2DBC-46F4-BC7E-DC084FDBA13B}|..\\UserProject_DAL\\UserProject_DAL.csproj|e:\\c sharp\\userproject_dal\\models\\filterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC60BE7D-2DBC-46F4-BC7E-DC084FDBA13B}|..\\UserProject_DAL\\UserProject_DAL.csproj|e:\\c sharp\\userproject_dal\\interfaces\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54BA6064-292D-4C02-BF79-D8A21E637D7D}|..\\UserProject_BLL\\UserProject_BAL.csproj|e:\\c sharp\\userproject_bll\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54BA6064-292D-4C02-BF79-D8A21E637D7D}|..\\UserProject_BLL\\UserProject_BAL.csproj|e:\\c sharp\\userproject_bll\\sevices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54BA6064-292D-4C02-BF79-D8A21E637D7D}|..\\UserProject_BLL\\UserProject_BAL.csproj|e:\\c sharp\\userproject_bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54BA6064-292D-4C02-BF79-D8A21E637D7D}|..\\UserProject_BLL\\UserProject_BAL.csproj|e:\\c sharp\\userproject_bll\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182C090A-9D85-4929-B530-50A2E6B8564A}|MainProjThreeTier.csproj|e:\\c sharp\\mainprojthreetier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{182C090A-9D85-4929-B530-50A2E6B8564A}|MainProjThreeTier.csproj|e:\\c sharp\\user backend\\mainprojthreetier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182C090A-9D85-4929-B530-50A2E6B8564A}|MainProjThreeTier.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_DAL\\Repositories\\SqlDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_DAL\\Models\\PaginationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_BLL\\Sevices\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_BLL\\Interfaces\\IEmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_DAL\\Models\\FilterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_DAL\\Repositories\\FileDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_BLL\\Interfaces\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_BLL\\Sevices\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C sharp\\UserProject_DAL\\Interfaces\\IDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +51,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,148 +59,154 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\C sharp\\User Backend\\UserProject_BLL\\Sevices\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\UserProject_BLL\\Sevices\\EmailService.cs",
+              "ToolTip": "E:\\C sharp\\User Backend\\UserProject_BLL\\Sevices\\EmailService.cs",
+              "RelativeToolTip": "..\\UserProject_BLL\\Sevices\\EmailService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAASwEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:02:51.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileDataAccess.cs",
+              "DocumentMoniker": "E:\\C sharp\\User Backend\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
+              "ToolTip": "E:\\C sharp\\User Backend\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
+              "RelativeToolTip": "..\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:56:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SqlDataAccess.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_DAL\\Repositories\\SqlDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_DAL\\Repositories\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_DAL\\Repositories\\SqlDataAccess.cs",
               "ToolTip": "E:\\C sharp\\UserProject_DAL\\Repositories\\SqlDataAccess.cs",
-              "RelativeToolTip": "..\\UserProject_DAL\\Repositories\\SqlDataAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_DAL\\Repositories\\SqlDataAccess.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T07:26:27.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PaginationModel.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_DAL\\Models\\PaginationModel.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_DAL\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_DAL\\Models\\PaginationModel.cs",
               "ToolTip": "E:\\C sharp\\UserProject_DAL\\Models\\PaginationModel.cs",
-              "RelativeToolTip": "..\\UserProject_DAL\\Models\\PaginationModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_DAL\\Models\\PaginationModel.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T07:26:08.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "EmailService.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_BLL\\Sevices\\EmailService.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_BLL\\Sevices\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_BLL\\Sevices\\EmailService.cs",
               "ToolTip": "E:\\C sharp\\UserProject_BLL\\Sevices\\EmailService.cs",
-              "RelativeToolTip": "..\\UserProject_BLL\\Sevices\\EmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_BLL\\Sevices\\EmailService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T04:33:49.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_BLL\\Interfaces\\IEmailService.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_BLL\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_BLL\\Interfaces\\IEmailService.cs",
               "ToolTip": "E:\\C sharp\\UserProject_BLL\\Interfaces\\IEmailService.cs",
-              "RelativeToolTip": "..\\UserProject_BLL\\Interfaces\\IEmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_BLL\\Interfaces\\IEmailService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T09:31:48.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "FilterData.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_DAL\\Models\\FilterData.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_DAL\\Models\\FilterData.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_DAL\\Models\\FilterData.cs",
               "ToolTip": "E:\\C sharp\\UserProject_DAL\\Models\\FilterData.cs",
-              "RelativeToolTip": "..\\UserProject_DAL\\Models\\FilterData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_DAL\\Models\\FilterData.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T09:46:02.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "FileDataAccess.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
               "ToolTip": "E:\\C sharp\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
-              "RelativeToolTip": "..\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_DAL\\Repositories\\FileDataAccess.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T10:18:22.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_BLL\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_BLL\\Interfaces\\IUserService.cs",
               "ToolTip": "E:\\C sharp\\UserProject_BLL\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "..\\UserProject_BLL\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_BLL\\Interfaces\\IUserService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T05:24:14.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C sharp\\MainProjThreeTier\\Program.cs",
+              "DocumentMoniker": "E:\\C sharp\\User Backend\\MainProjThreeTier\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C sharp\\MainProjThreeTier\\Program.cs",
+              "ToolTip": "E:\\C sharp\\User Backend\\MainProjThreeTier\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:16:00.818Z"
+              "WhenOpened": "2024-06-04T13:16:00.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainUserController.cs",
-              "DocumentMoniker": "E:\\C sharp\\MainProjThreeTier\\Controllers\\MainUserController.cs",
+              "DocumentMoniker": "E:\\C sharp\\User Backend\\MainProjThreeTier\\Controllers\\MainUserController.cs",
               "RelativeDocumentMoniker": "Controllers\\MainUserController.cs",
-              "ToolTip": "E:\\C sharp\\MainProjThreeTier\\Controllers\\MainUserController.cs",
+              "ToolTip": "E:\\C sharp\\User Backend\\MainProjThreeTier\\Controllers\\MainUserController.cs",
               "RelativeToolTip": "Controllers\\MainUserController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAewDIAAAAIAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAewFcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T12:53:05.959Z"
+              "WhenOpened": "2024-06-04T12:53:05.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_BLL\\Sevices\\UserService.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_BLL\\Sevices\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_BLL\\Sevices\\UserService.cs",
               "ToolTip": "E:\\C sharp\\UserProject_BLL\\Sevices\\UserService.cs",
-              "RelativeToolTip": "..\\UserProject_BLL\\Sevices\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_BLL\\Sevices\\UserService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T10:20:44.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "IDataAccess.cs",
               "DocumentMoniker": "E:\\C sharp\\UserProject_DAL\\Interfaces\\IDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_DAL\\Interfaces\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\UserProject_DAL\\Interfaces\\IDataAccess.cs",
               "ToolTip": "E:\\C sharp\\UserProject_DAL\\Interfaces\\IDataAccess.cs",
-              "RelativeToolTip": "..\\UserProject_DAL\\Interfaces\\IDataAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "RelativeToolTip": "..\\..\\UserProject_DAL\\Interfaces\\IDataAccess.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T10:13:38.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\C sharp\\UserProject_DAL\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\UserProject_DAL\\Models\\User.cs",
-              "ToolTip": "E:\\C sharp\\UserProject_DAL\\Models\\User.cs",
-              "RelativeToolTip": "..\\UserProject_DAL\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:42:14.304Z",
-              "EditorCaption": ""
             }
           ]
         }
